@@ -1,4 +1,4 @@
-package org.example.insurance.model;
+package org.alzaidy.insurance.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

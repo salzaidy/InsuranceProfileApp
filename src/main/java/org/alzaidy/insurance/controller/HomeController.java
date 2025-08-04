@@ -1,8 +1,5 @@
-package org.example.insurance.controller;
+package org.alzaidy.insurance.controller;
 
-import org.example.insurance.model.Profile;
-import org.example.insurance.repository.ProfileRepository;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

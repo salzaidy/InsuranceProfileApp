@@ -1,6 +1,6 @@
-package org.example.insurance.repository;
+package org.alzaidy.insurance.repository;
 
-import org.example.insurance.model.Profile;
+import org.alzaidy.insurance.model.Profile;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
